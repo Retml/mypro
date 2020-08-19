@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "testpro"
+    },
+    "jhipsterVersion": "6.10.1",
+    "applicationType": "monolith",
+    "baseName": "test1",
+    "packageName": "testpro",
+    "packageFolder": "testpro",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "N2ZmYzQ0OTNkMDU5NWQyZjM1MzI1NmEwNjZiN2NhM2QwM2I0M2UxYzRiZGE5NGYwZWEzMzdiNzU1MDM2ODNlOTA5NmQ0NGNkYjAwZWY4YWZmZjQ0OWVhNzA5MzNmMTQxNDdmNjdjMjBkMzg0MTZmY2ZmMGU5MjgyZWRiYTA5OWQ=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "react",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1597808632438,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": [],
+    "reactive": true
+  }
+}
